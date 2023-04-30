@@ -41,7 +41,7 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
+  - title: linkedin
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
@@ -56,7 +56,7 @@ address:
   - line: Turkey
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 
 
 # Build settings
 markdown: kramdown
