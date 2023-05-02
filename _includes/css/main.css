@@ -253,7 +253,7 @@ section.success {
 }
 
 /* Flexbox Portfolio Grid */
-@media (min-width: 640px) {
+@media (min-width: 512px) {
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
       flex-flow: row wrap;
@@ -265,7 +265,7 @@ section.success {
       max-width: 49%;
     }
   }
-  @media (min-width: 960px) {
+  @media (min-width: 512px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 32%;
       max-width: 32%;
