@@ -5,7 +5,7 @@ date: 2014-07-18
 img: Hyper_Survive.png
 alt: image-alt
 project-date: 
-client: 
+client: Hyper Survive 3D
 category: 
 description: Use this area of the page to describe your project.
 ---
